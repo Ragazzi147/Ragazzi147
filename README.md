@@ -2,7 +2,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRagazzi147=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRagazzi147=anuraghazra&show_icons=true&theme=dark)
 <!--
 **Ragazzi147/Ragazzi147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
