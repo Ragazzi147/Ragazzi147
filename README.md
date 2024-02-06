@@ -17,8 +17,8 @@ I am Lucas
 </picture>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragazzi147&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!--
 **Ragazzi147/Ragazzi147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
