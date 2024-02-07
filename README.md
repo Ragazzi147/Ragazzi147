@@ -3,7 +3,7 @@ I am Lucas
 -  I’m currently working on full stack developer(Apex and Js)
 -  I’m currently learning Apex and Js
 
-
+<!--
 <div >
   <a href="https://github.com/Ragazzi147">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ragazzi147&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@ I am Lucas
 
 
 
-<!--
+
 **Ragazzi147/Ragazzi147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
