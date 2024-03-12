@@ -1,7 +1,6 @@
 ### Hello👋
 I am Lucas 
--  I’m currently working on full stack developer(Apex and Js)
--  I’m currently learning Apex and Js
+
 
 <!--
 <div >
